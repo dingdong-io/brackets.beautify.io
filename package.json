@@ -1,0 +1,38 @@
+{
+    "name": "beautify.io",
+    "title": "beautify.io",
+    "version": "1.2.1",
+    "description": "Format JavaScript, HTML, and CSS files",
+    "homepage": "https://github.com/dingdong-io/brackets.beautify.io",
+    "author": "dingdong (https://github.com/dingdong-io)",
+    "license": "MIT",
+    "categories":"formatting",
+    "keywords": [
+        "format",
+        "formatting",
+        "beautify",
+        "jsbeautify",
+        "javascript formatting",
+        "html formatting",
+        "css formatting",
+        "tidy",
+        "tidy html",
+        "tidy css",
+        "tidy javascript",
+        "pretty",
+        "prettify",
+        "sass format",
+        "scss format",
+        "sass",
+        "scss",
+        "sass beautify",
+        "sass tidy"
+    ],
+    "files": [
+        "main.js",
+        "settings.json"
+    ],
+    "engines": {
+        "brackets": ">=0.22.0"
+    }
+}
